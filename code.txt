@@ -1,0 +1,8 @@
+int main()
+{
+    long a , b;
+    a = 10;
+    b = a + 10;
+    char* _string_9;
+    int* 5_string_9;
+}
